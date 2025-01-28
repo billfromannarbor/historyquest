@@ -1,0 +1,99 @@
+[
+  {
+    "question": "The Atlantic Slave Trade was officially banned in the United States in:",
+    "type": "multiple-choice",
+    "options": [
+      "1776",
+      "1808",
+      "1820",
+      "1865"
+    ],
+    "correct_answer": "1808"
+  },
+  {
+    "question": "Place the following events in chronological order:",
+    "type": "timeline",
+    "correct_order": [
+      "The Missouri Compromise",
+      "The Fugitive Slave Act of 1850",
+      "The Dred Scott decision",
+      "The Emancipation Proclamation"
+    ]
+  },
+  {
+    "question": "Which of the following was NOT a feature of the Compromise of 1850?",
+    "type": "multiple-choice",
+    "options": [
+      "California was admitted as a free state.",
+      "The slave trade was banned in Washington, D.C.",
+      "The Fugitive Slave Act was repealed.",
+      "Popular sovereignty was applied to territories like Utah and New Mexico."
+    ],
+    "correct_answer": "The Fugitive Slave Act was repealed."
+  },
+  {
+    "question": "Which of the following events most directly led to the increase in demand for enslaved labor in the Southern United States during the early 19th century?",
+    "type": "multiple-choice",
+    "options": [
+      "The Emancipation Proclamation",
+      "The invention of the Cotton Gin",
+      "The passage of the Northwest Ordinance",
+      "The establishment of the American Colonization Society"
+    ],
+    "correct_answer": "The invention of the Cotton Gin"
+  },
+  {
+    "question": "The U.S. Supreme Court decision in Dred Scott v. Sandford declared that African Americans could not be U.S. citizens and that Congress lacked the authority to prohibit slavery in the territories.",
+    "type": "true-false",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Which of these events occurred first?",
+    "type": "multiple-choice",
+    "options": [
+      "Nat Turner’s Rebellion",
+      "The Kansas-Nebraska Act",
+      "The publication of Uncle Tom’s Cabin",
+      "John Brown’s raid on Harpers Ferry"
+    ],
+    "correct_answer": "Nat Turner’s Rebellion"
+  },
+  {
+    "question": "The Fugitive Slave Act of 1850 imposed penalties on individuals who assisted enslaved people in escaping and required citizens to aid in their capture.",
+    "type": "true-false",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Missouri Compromise of 1820 prohibited slavery in all territories acquired in the Louisiana Purchase.",
+    "type": "true-false",
+    "correct_answer": "False",
+    "explanation": "It prohibited slavery only north of the 36°30′ latitude line."
+  },
+  {
+    "question": "Which of the following best describes the role of the Portuguese in the early transatlantic slave trade?",
+    "type": "multiple-choice",
+    "options": [
+      "They avoided involvement in slavery due to moral objections.",
+      "They were the first Europeans to explore and establish the Atlantic slave trade.",
+      "They only traded slaves within Europe and avoided Africa.",
+      "They focused solely on trading spices and ignored the slave trade."
+    ],
+    "correct_answer": "They were the first Europeans to explore and establish the Atlantic slave trade."
+  },
+  {
+    "question": "The Three-Fifths Compromise in the U.S. Constitution counted enslaved individuals as three-fifths of a person for taxation and representation purposes.",
+    "type": "true-false",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Underground Railroad was:",
+    "type": "multiple-choice",
+    "options": [
+      "A literal railroad used to transport enslaved people to freedom.",
+      "A network of abolitionists and safe houses aiding enslaved people’s escape to free states or Canada.",
+      "A Southern attempt to track down and capture fugitive enslaved individuals.",
+      "A code name for the Emancipation Proclamation."
+    ],
+    "correct_answer": "A network of abolitionists and safe houses aiding enslaved people’s escape to free states or Canada."
+  }
+]

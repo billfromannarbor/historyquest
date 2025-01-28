@@ -1,0 +1,10 @@
+{
+    "question": "Place the following events in chronological order:",
+    "type": "timeline",
+    "correct_order": [
+        "The Missouri Compromise",
+        "The Fugitive Slave Act of 1850",
+        "The Dred Scott decision",
+        "The Emancipation Proclamation"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "question": "Which of these events occurred first?",
+    "type": "multiple-choice",
+    "options": [
+        "Nat Turner\u2019s Rebellion",
+        "The Kansas-Nebraska Act",
+        "The publication of Uncle Tom\u2019s Cabin",
+        "John Brown\u2019s raid on Harpers Ferry"
+    ],
+    "correct_answer": "Nat Turner\u2019s Rebellion"
+}

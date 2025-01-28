@@ -1,0 +1,11 @@
+{
+    "question": "The Underground Railroad was:",
+    "type": "multiple-choice",
+    "options": [
+        "A literal railroad used to transport enslaved people to freedom.",
+        "A network of abolitionists and safe houses aiding enslaved people\u2019s escape to free states or Canada.",
+        "A Southern attempt to track down and capture fugitive enslaved individuals.",
+        "A code name for the Emancipation Proclamation."
+    ],
+    "correct_answer": "A network of abolitionists and safe houses aiding enslaved people\u2019s escape to free states or Canada."
+}
